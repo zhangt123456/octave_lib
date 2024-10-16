@@ -1,4 +1,4 @@
-
+% Determine if a string is a hexadecimal number
 function errmesg = isHex(str)
 
   errmesg = false;
